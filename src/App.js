@@ -15,18 +15,6 @@ const reducer = (columns, action) => {
   }
 }
 
-// const defaultColumns = {
-//   column1: [
-
-//   ],
-//   column2: [
-
-//   ],
-//   column3: [
-
-//   ]
-// }
-
 const App = () => {
 
   // I initially set the state to null so as not to create errors.
